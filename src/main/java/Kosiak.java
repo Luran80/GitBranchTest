@@ -1,3 +1,3 @@
 public class Kosiak {
-    gu
+    HelloWorld hello = new HelloWorld();
 }
